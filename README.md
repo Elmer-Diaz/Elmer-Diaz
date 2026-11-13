@@ -1,6 +1,3 @@
-Copia y pega este contenido en tu archivo `README.md`:
-
-```markdown
 <div align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Programador trabajando"/>
 
@@ -69,4 +66,4 @@ Explora mis repositorios para conocer el código y los detalles de cada proyecto
   <p><strong>💡 Cada proyecto es una oportunidad para aprender y construir algo mejor.</strong></p>
   <p>¡Gracias por visitar mi perfil! ⭐</p>
 </div>
-```
+
